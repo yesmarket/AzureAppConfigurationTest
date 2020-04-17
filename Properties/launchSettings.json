@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Development": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AppConfigurationConnectionString": "REDACTED",
+        "AZURE_FUNCTION_ENVIRONMENT": "Test"
+      }
+    }
+  }
+}
